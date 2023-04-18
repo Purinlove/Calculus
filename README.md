@@ -1,21 +1,2 @@
 # Calculus
-<!doctype html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Calculus</title>
-</head>
-<body>
-    <h1>微分積分学</h1>
 
-    <h2>更新履歴</h2>
-
-     <p>・</p>
-    
-    <h2>第1回 数列と級数</h2>
-
-     <p><a href="1_exercises.pdf">演習</a></p>
-
-
-</body>
-</html>
