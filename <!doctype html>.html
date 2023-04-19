@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+<title>サンプル</title>
+<script type = "text/javascript">
+<!--
+function matchPass() {
+var inpass = document.forms[ "pass" ].elements[ "inpass" ].value; 
+var validpass = "somasomapenguin"
+if( inpass == validpass ) location.href ="https://www.google.co.jp"
+else alert( "パスワードが間違っています。" );}
+</script>
+</head>
+<body>
+<form name = "pass">
+<div>
+<input type = "text" value = "" name = "inpass">
+<input type = "button" value = "認証" onclick = "matchPass();"> </div>
+</form>
+</body>
+</html>
